@@ -7,7 +7,7 @@ function HomePage(){
     return(
         <div>
             <h2>This is a test!</h2>
-            <button onClick={() => {alert("test")}}>Login</button>
+            <button onClick={() => {}}>Login</button>
         </div>
     
     );
